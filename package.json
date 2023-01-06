@@ -1,0 +1,12 @@
+{
+  "name": "node-vanilla-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greeter.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test ."
+  },
+  "author": "Chris Zarate",
+  "license": "ISC"
+}
